@@ -3,7 +3,7 @@
     {
       "name": "WFAN 660 AM / 101.9 FM",
       "streamUrl": "https://www.audacy.com/wfan/listen",
-      "iconUrl": "https://i.imgur.com/2QjZx8G.png",
+      "iconUrl": "",
       "description": "New York's flagship NFL station (Giants/Jets)"
     },
     {
@@ -148,18 +148,7 @@
       "iconUrl": "https://i.imgur.com/3qY9ZgB.png",
       "description": "National 24/7 sports coverage"
     },
-    {
-      "name": "Fox Sports Radio",
-      "streamUrl": "https://www.foxsportsradio.com/listen-live/",
-      "iconUrl": "https://i.imgur.com/5XwWQbP.png",
-      "description": "National sports talk"
-    },
-    {
-      "name": "CBS Sports Radio",
-      "streamUrl": "https://www.audacy.com/cbssportsradio/listen",
-      "iconUrl": "https://i.imgur.com/mNzSqVx.png",
-      "description": "Sports news and analysis"
-    },
+    
     {
       "name": "WFAN 660 AM / 101.9 FM",
       "streamUrl": "https://www.audacy.com/wfan/listen",
