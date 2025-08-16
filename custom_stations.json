@@ -1,0 +1,128 @@
+{
+  "nfl": [
+    {
+      "name": "NFL Radio Network",
+      "streamUrl": "https://nfl-radiostream1.com/live",
+      "iconUrl": "https://example.com/icons/nfl.png",
+      "description": "Official NFL game broadcasts and analysis"
+    },
+    {
+      "name": "Pro Football Live",
+      "streamUrl": "https://stream.profootballlive.com/main",
+      "iconUrl": "https://example.com/icons/football.png",
+      "description": "24/7 football talk and live game coverage"
+    },
+    {
+      "name": "Gridiron Nation",
+      "streamUrl": "https://gridiron-nation.stream/feed",
+      "iconUrl": "https://example.com/icons/gridiron.png",
+      "description": "College and pro football commentary"
+    }
+  ],
+  "nba": [
+    {
+      "name": "NBA Official Radio",
+      "streamUrl": "https://nba-official.com/stream",
+      "iconUrl": "https://example.com/icons/nba.png",
+      "description": "Live games and expert analysis"
+    },
+    {
+      "name": "Hoop Dreams Radio",
+      "streamUrl": "https://hoopdreams.fm/live",
+      "iconUrl": "https://example.com/icons/hoop.png",
+      "description": "Basketball talk shows and podcasts"
+    },
+    {
+      "name": "Courtside Live",
+      "streamUrl": "https://courtside-live.stream/nba",
+      "iconUrl": "https://example.com/icons/court.png",
+      "description": "Live game commentary and analysis"
+    },
+    {
+      "name": "EuroLeague Radio",
+      "streamUrl": "https://euroleague-basketball.com/radio",
+      "iconUrl": "https://example.com/icons/euroleague.png",
+      "description": "European basketball coverage"
+    }
+  ],
+  "mlb": [
+    {
+      "name": "MLB Network Radio",
+      "streamUrl": "https://mlbradio.network/live",
+      "iconUrl": "https://example.com/icons/mlb.png",
+      "description": "Official MLB game broadcasts"
+    },
+    {
+      "name": "Baseball Tonight",
+      "streamUrl": "https://baseball-tonight.fm/stream",
+      "iconUrl": "https://example.com/icons/baseball.png",
+      "description": "Daily baseball news and analysis"
+    }
+  ],
+  "nhl": [
+    {
+      "name": "NHL Icecast",
+      "streamUrl": "https://nhliceradio.com/main",
+      "iconUrl": "https://example.com/icons/nhl.png",
+      "description": "Hockey games and commentary"
+    },
+    {
+      "name": "Puck Talk Radio",
+      "streamUrl": "https://pucktalk.net/stream",
+      "iconUrl": "https://example.com/icons/puck.png",
+      "description": "Hockey analysis and interviews"
+    },
+    {
+      "name": "Frozen Pond Live",
+      "streamUrl": "https://frozenpond.com/radio",
+      "iconUrl": "https://example.com/icons/pond.png",
+      "description": "Live game coverage and highlights"
+    }
+  ],
+  "soccer": [
+    {
+      "name": "World Soccer Radio",
+      "streamUrl": "https://worldsoccer.fm/premierleague",
+      "iconUrl": "https://example.com/icons/soccer.png",
+      "description": "Global soccer coverage"
+    },
+    {
+      "name": "Champions League Live",
+      "streamUrl": "https://ucl-radio.com/stream",
+      "iconUrl": "https://example.com/icons/ucl.png",
+      "description": "UEFA Champions League matches"
+    },
+    {
+      "name": "MLS Kickoff",
+      "streamUrl": "https://mls-radio.com/live",
+      "iconUrl": "https://example.com/icons/mls.png",
+      "description": "Major League Soccer coverage"
+    }
+  ],
+  "sports": [
+    {
+      "name": "ESPN World Service",
+      "streamUrl": "https://espn-global.com/radio",
+      "iconUrl": "https://example.com/icons/espn.png",
+      "description": "All sports coverage"
+    },
+    {
+      "name": "Fox Sports Radio",
+      "streamUrl": "https://foxsports-radio.com/main",
+      "iconUrl": "https://example.com/icons/fox.png",
+      "description": "National sports talk"
+    },
+    {
+      "name": "CBS Sports Radio",
+      "streamUrl": "https://cbssports-radio.net/stream",
+      "iconUrl": "https://example.com/icons/cbs.png",
+      "description": "Sports news and analysis"
+    },
+    {
+      "name": "The Athletic FC",
+      "streamUrl": "https://theathletic.com/soccer/stream",
+      "iconUrl": "https://example.com/icons/athletic.png",
+      "description": "In-depth soccer analysis"
+    }
+  ]
+}
