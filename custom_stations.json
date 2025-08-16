@@ -1,6 +1,24 @@
 {
   "nfl": [
     {
+      "name": "WFAN 660 AM / 101.9 FM",
+      "streamUrl": "https://www.audacy.com/wfan/listen",
+      "iconUrl": "https://i.imgur.com/2QjZx8G.png",
+      "description": "New York's flagship NFL station (Giants/Jets)"
+    },
+    {
+      "name": "WEEI 93.7 FM",
+      "streamUrl": "https://www.audacy.com/weei/listen",
+      "iconUrl": "https://i.imgur.com/9tLdQJH.png",
+      "description": "Boston's Patriots coverage"
+    },
+    {
+      "name": "The Ticket (KTCK) 1310 AM/96.7 FM",
+      "streamUrl": "https://www.audacy.com/1310theticket/listen",
+      "iconUrl": "https://i.imgur.com/mNzSqVx.png",
+      "description": "Dallas Cowboys radio home"
+    },
+    {
       "name": "ESPN New York 98.7 FM",
       "streamUrl": "https://prod-52-90-107-104.amperwave.net/goodkarma-wepnfmaac-hlsc.m3u8/?source=espnradio&z=76fd7c692bb24f4b913e56206dd35083&p=1",
       "iconUrl": "https://i.imgur.com/3qY9ZgB.png",
@@ -14,6 +32,24 @@
     }
   ],
   "nba": [
+    {
+      "name": "ESPN LA 710 AM",
+      "streamUrl": "https://www.espn.com/espnradio/losangeles/",
+      "iconUrl": "https://i.imgur.com/3qY9ZgB.png",
+      "description": "Lakers/Clippers coverage"
+    },
+    {
+      "name": "670 The Score",
+      "streamUrl": "https://www.audacy.com/670thescore/listen",
+      "iconUrl": "https://i.imgur.com/9tLdQJH.png",
+      "description": "Chicago Bulls radio"
+    },
+    {
+      "name": "92.9 FM ESPN Memphis",
+      "streamUrl": "https://www.espn929.com/listen-live/",
+      "iconUrl": "https://i.imgur.com/3qY9ZgB.png",
+      "description": "Grizzlies coverage"
+    },
     {
       "name": "ESPN Chicago 1000 AM",
       "streamUrl": "https://prod-44-197-182-208.amperwave.net/goodkarma-wmvpamaac-hlsc1.m3u8/?source=espnwebsite&z=c39b64f3daef49df9af786ec1b9e386d&p=1",
@@ -29,6 +65,24 @@
   ],
   "mlb": [
     {
+      "name": "WFAN 660 AM",
+      "streamUrl": "https://www.audacy.com/wfan/listen",
+      "iconUrl": "https://i.imgur.com/2QjZx8G.png",
+      "description": "Yankees/Mets broadcasts"
+    },
+    {
+      "name": "KNBR 680 AM",
+      "streamUrl": "https://www.knbr.com/listen-live/",
+      "iconUrl": "https://i.imgur.com/8h7zG3M.png",
+      "description": "San Francisco Giants radio"
+    },
+    {
+      "name": "WEEI 93.7 FM",
+      "streamUrl": "https://www.audacy.com/weei/listen",
+      "iconUrl": "https://i.imgur.com/9tLdQJH.png",
+      "description": "Red Sox radio network"
+    },
+    {
       "name": "ESPN Los Angeles 710 AM",
       "streamUrl": "https://prod-3-89-110-162.amperwave.net/goodkarma-kspnamaac-hlsc.m3u8/?source=espnradio&z=1b310faab48e48518f47d3e72cbd33a0&p=1",
       "iconUrl": "https://i.imgur.com/3qY9ZgB.png",
@@ -41,7 +95,39 @@
       "description": "Baseball talk and analysis"
     }
   ],
+  "nhl": [
+    {
+      "name": "98.5 The Sports Hub",
+      "streamUrl": "https://985thesportshub.com/listen-live/",
+      "iconUrl": "https://i.imgur.com/KL9VYjT.png",
+      "description": "Boston Bruins coverage"
+    },
+    {
+      "name": "WGR 550 AM",
+      "streamUrl": "https://www.audacy.com/wgr550/listen",
+      "iconUrl": "https://i.imgur.com/KL9VYjT.png",
+      "description": "Buffalo Sabres radio"
+    },
+    {
+      "name": "The Fan 93.7 FM",
+      "streamUrl": "https://www.audacy.com/937thefan/listen",
+      "iconUrl": "https://i.imgur.com/KL9VYjT.png",
+      "description": "Pittsburgh Penguins coverage"
+    }
+  ],
   "college": [
+    {
+      "name": "ESPN College Radio",
+      "streamUrl": "https://www.espn.com/espnradio/",
+      "iconUrl": "https://i.imgur.com/3qY9ZgB.png",
+      "description": "National NCAA coverage"
+    },
+    {
+      "name": "SEC Network Radio",
+      "streamUrl": "https://www.secsports.com/watch-listen",
+      "iconUrl": "https://i.imgur.com/VvT7JQp.png",
+      "description": "Southeastern Conference games"
+    },
     {
       "name": "WLXG E Sports 1300AM 92.5FM",
       "streamUrl": "https://ice9.securenetsystems.net/WLXG",
@@ -55,7 +141,103 @@
       "description": "College sports talk"
     }
   ],
-  "sports": [
+   "sports": [
+    {
+      "name": "ESPN Radio",
+      "streamUrl": "https://www.espn.com/espnradio/",
+      "iconUrl": "https://i.imgur.com/3qY9ZgB.png",
+      "description": "National 24/7 sports coverage"
+    },
+    {
+      "name": "Fox Sports Radio",
+      "streamUrl": "https://www.foxsportsradio.com/listen-live/",
+      "iconUrl": "https://i.imgur.com/5XwWQbP.png",
+      "description": "National sports talk"
+    },
+    {
+      "name": "CBS Sports Radio",
+      "streamUrl": "https://www.audacy.com/cbssportsradio/listen",
+      "iconUrl": "https://i.imgur.com/mNzSqVx.png",
+      "description": "Sports news and analysis"
+    },
+    {
+      "name": "WFAN 660 AM / 101.9 FM",
+      "streamUrl": "https://www.audacy.com/wfan/listen",
+      "iconUrl": "https://i.imgur.com/2QjZx8G.png",
+      "description": "New York's flagship sports station"
+    },
+    {
+      "name": "670 The Score",
+      "streamUrl": "https://www.audacy.com/670thescore/listen",
+      "iconUrl": "https://i.imgur.com/9tLdQJH.png",
+      "description": "Chicago sports leader"
+    },
+    {
+      "name": "WEEI 93.7 FM",
+      "streamUrl": "https://www.audacy.com/weei/listen",
+      "iconUrl": "https://i.imgur.com/9tLdQJH.png",
+      "description": "Boston sports radio"
+    },
+    {
+      "name": "KNBR 680 AM",
+      "streamUrl": "https://www.knbr.com/listen-live/",
+      "iconUrl": "https://i.imgur.com/8h7zG3M.png",
+      "description": "San Francisco sports"
+    },
+    {
+      "name": "97.5 The Fanatic",
+      "streamUrl": "https://www.audacy.com/975thefanatic/listen",
+      "iconUrl": "https://i.imgur.com/2QjZx8G.png",
+      "description": "Philadelphia sports"
+    },
+    {
+      "name": "The Ticket 1310 AM",
+      "streamUrl": "https://www.audacy.com/1310theticket/listen",
+      "iconUrl": "https://i.imgur.com/mNzSqVx.png",
+      "description": "Dallas sports radio"
+    },
+    {
+      "name": "WXYT 97.1 FM",
+      "streamUrl": "https://www.audacy.com/971theticket/listen",
+      "iconUrl": "https://i.imgur.com/9tLdQJH.png",
+      "description": "Detroit sports"
+    },
+    {
+      "name": "WIP 94.1 FM",
+      "streamUrl": "https://www.audacy.com/wip/listen",
+      "iconUrl": "https://i.imgur.com/2QjZx8G.png",
+      "description": "Philadelphia sports talk"
+    },
+    {
+      "name": "98.5 The Sports Hub",
+      "streamUrl": "https://985thesportshub.com/listen-live/",
+      "iconUrl": "https://i.imgur.com/KL9VYjT.png",
+      "description": "Boston sports"
+    },
+    {
+      "name": "ESPN LA 710 AM",
+      "streamUrl": "https://www.espn.com/espnradio/losangeles/",
+      "iconUrl": "https://i.imgur.com/3qY9ZgB.png",
+      "description": "Los Angeles sports"
+    },
+    {
+      "name": "92.9 FM ESPN Memphis",
+      "streamUrl": "https://www.espn929.com/listen-live/",
+      "iconUrl": "https://i.imgur.com/3qY9ZgB.png",
+      "description": "Memphis sports"
+    },
+    {
+      "name": "WGR 550 AM",
+      "streamUrl": "https://www.audacy.com/wgr550/listen",
+      "iconUrl": "https://i.imgur.com/KL9VYjT.png",
+      "description": "Buffalo sports"
+    },
+    {
+      "name": "The Fan 93.7 FM",
+      "streamUrl": "https://www.audacy.com/937thefan/listen",
+      "iconUrl": "https://i.imgur.com/KL9VYjT.png",
+      "description": "Pittsburgh sports"
+    },
     {
       "name": "WEPN - New York 1050 AM",
       "streamUrl": "https://prod-3-89-110-162.amperwave.net/goodkarma-wepnamaac-hlsc.m3u8/?source=espnradio&z=3cc0128e1efc4895abf7152e3b034902&p=1",
