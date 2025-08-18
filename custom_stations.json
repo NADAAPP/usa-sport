@@ -9,25 +9,25 @@
     {
       "name": "WEEI 93.7 FM",
       "streamUrl": "https://www.audacy.com/weei/listen",
-      "iconUrl": "https://i.imgur.com/9tLdQJH.png",
+      "iconUrl": "",
       "description": "Boston's Patriots coverage"
     },
     {
       "name": "The Ticket (KTCK) 1310 AM/96.7 FM",
       "streamUrl": "https://www.audacy.com/1310theticket/listen",
-      "iconUrl": "https://i.imgur.com/mNzSqVx.png",
+      "iconUrl": "",
       "description": "Dallas Cowboys radio home"
     },
     {
       "name": "ESPN New York 98.7 FM",
       "streamUrl": "https://prod-52-90-107-104.amperwave.net/goodkarma-wepnfmaac-hlsc.m3u8/?source=espnradio&z=76fd7c692bb24f4b913e56206dd35083&p=1",
-      "iconUrl": "https://i.imgur.com/3qY9ZgB.png",
+      "iconUrl": "",
       "description": "Official ESPN NFL coverage in New York"
     },
     {
       "name": "101-Sports Talk for St. Louis",
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/WXOSFM.mp3?dist=hubbard&source=hubbard-web&ttag=web&gdpr=0",
-      "iconUrl": "https://i.imgur.com/5XwWQbP.png",
+      "iconUrl": "",
       "description": "NFL talk and game analysis"
     }
   ],
@@ -35,19 +35,19 @@
     {
       "name": "ESPN LA 710 AM",
       "streamUrl": "https://www.espn.com/espnradio/losangeles/",
-      "iconUrl": "https://i.imgur.com/3qY9ZgB.png",
+      "iconUrl": "",
       "description": "Lakers/Clippers coverage"
     },
     {
       "name": "670 The Score",
       "streamUrl": "https://www.audacy.com/670thescore/listen",
-      "iconUrl": "https://i.imgur.com/9tLdQJH.png",
+      "iconUrl": "",
       "description": "Chicago Bulls radio"
     },
     {
       "name": "92.9 FM ESPN Memphis",
       "streamUrl": "https://www.espn929.com/listen-live/",
-      "iconUrl": "https://i.imgur.com/3qY9ZgB.png",
+      "iconUrl": "",
       "description": "Grizzlies coverage"
     },
     {
@@ -59,7 +59,7 @@
     {
       "name": "97.5-92.5 Houston",
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFM.mp3",
-      "iconUrl": "https://i.imgur.com/mNzSqVx.png",
+      "iconUrl": "",
       "description": "Houston Rockets and NBA coverage"
     }
   ],
@@ -67,7 +67,7 @@
     {
       "name": "WFAN 660 AM",
       "streamUrl": "https://www.audacy.com/wfan/listen",
-      "iconUrl": "https://i.imgur.com/2QjZx8G.png",
+      "iconUrl": "",
       "description": "Yankees/Mets broadcasts"
     },
     {
