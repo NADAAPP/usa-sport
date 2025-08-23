@@ -2,7 +2,7 @@
   "nfl": [
     {
       "name": "WFAN 660 AM / 101.9 FM",
-      "streamUrl": "https://www.audacy.com/wfan/listen",
+      "streamUrl": "https://live.amperwave.net/manifest/audacy-wfanamaac-imc",
       "iconUrl": "",
       "description": "New York's flagship NFL station (Giants/Jets)"
     },
