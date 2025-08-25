@@ -8,16 +8,11 @@
     },
     {
       "name": "WEEI 93.7 FM",
-      "streamUrl": "https://www.audacy.com/weei/listen",
+      "streamUrl": "https://prod-34-203-207-232.amperwave.net/audacy-weeifmaac-imc?session-id=661d9bd379933e7c91af57634d545fa6",
       "iconUrl": "",
       "description": "Boston's Patriots coverage"
     },
-    {
-      "name": "The Ticket (KTCK) 1310 AM/96.7 FM",
-      "streamUrl": "https://www.audacy.com/1310theticket/listen",
-      "iconUrl": "",
-      "description": "Dallas Cowboys radio home"
-    },
+   
     {
       "name": "ESPN New York 98.7 FM",
       "streamUrl": "https://prod-52-90-107-104.amperwave.net/goodkarma-wepnfmaac-hlsc.m3u8/?source=espnradio&z=76fd7c692bb24f4b913e56206dd35083&p=1",
@@ -40,13 +35,13 @@
     },
     {
       "name": "670 The Score",
-      "streamUrl": "https://www.audacy.com/670thescore/listen",
+      "streamUrl": "https://prod-44-201-174-186.amperwave.net/audacy-wscramaac-hlsc.m3u8/?z=7277d71d857a4d29956d055425a7d602&p=1",
       "iconUrl": "",
       "description": "Chicago Bulls radio"
     },
     {
       "name": "92.9 FM ESPN Memphis",
-      "streamUrl": "https://www.espn929.com/listen-live/",
+      "streamUrl": "https://prod-18-206-182-166.amperwave.net/audacy-wmfsfmaac-imc?session-id=6f3ab08c319d66cb82c551e98a22b574",
       "iconUrl": "",
       "description": "Grizzlies coverage"
     },
@@ -65,20 +60,20 @@
   ],
   "mlb": [
     {
-      "name": "WFAN 660 AM",
-      "streamUrl": "https://www.audacy.com/wfan/listen",
+      "name": "WFAN 66 AM",
+      "streamUrl": "https://live.amperwave.net/manifest/audacy-wfanamaac-imc",
       "iconUrl": "",
       "description": "Yankees/Mets broadcasts"
     },
     {
       "name": "KNBR 680 AM",
-      "streamUrl": "https://www.knbr.com/listen-live/",
+      "streamUrl": "https://17793.live.streamtheworld.com/KNBRAM_SC",
       "iconUrl": "",
       "description": "San Francisco Giants radio"
     },
     {
       "name": "WEEI 93.7 FM",
-      "streamUrl": "https://www.audacy.com/weei/listen",
+      "streamUrl": "https://prod-34-203-207-232.amperwave.net/audacy-weeifmaac-imc?session-id=661d9bd379933e7c91af57634d545fa6",
       "iconUrl": "",
       "description": "Red Sox radio network"
     },
@@ -104,13 +99,13 @@
     },
     {
       "name": "WGR 550 AM",
-      "streamUrl": "https://www.audacy.com/wgr550/listen",
+      "streamUrl": "https://prod-18-232-145-154.amperwave.net/audacy-wgramaac-imc?session-id=90f2f2807f90635e6a98ff4ba971ef6e",
       "iconUrl":"",
       "description": "Buffalo Sabres radio"
     },
     {
       "name": "The Fan 93.7 FM",
-      "streamUrl": "https://www.audacy.com/937thefan/listen",
+      "streamUrl": "https://live.amperwave.net/direct/audacy-kdkafmaac-imc",
       "iconUrl": "",
       "description": "Pittsburgh Penguins coverage"
     }
@@ -179,12 +174,7 @@
       "iconUrl": "",
       "description": "Philadelphia sports"
     },
-    {
-      "name": "The Ticket 1310 AM",
-      "streamUrl": "https://www.audacy.com/1310theticket/listen",
-      "iconUrl": "",
-      "description": "Dallas sports radio"
-    },
+    
     {
       "name": "WXYT 97.1 FM",
       "streamUrl": "https://www.audacy.com/971theticket/listen",
