@@ -146,26 +146,26 @@
     
     {
       "name": "WFAN 660 AM / 101.9 FM",
-      "streamUrl": "https://www.audacy.com/wfan/listen",
+      "streamUrl": "https://live.amperwave.net/manifest/audacy-wfanamaac-imc",
       "iconUrl": "",
       "description": "New York's flagship sports station"
     },
     {
       "name": "670 The Score",
-      "streamUrl": "https://www.audacy.com/670thescore/listen",
+      "streamUrl": "https://prod-44-201-174-186.amperwave.net/audacy-wscramaac-hlsc.m3u8/?z=7277d71d857a4d29956d055425a7d602&p=1",
       "iconUrl": "",
       "description": "Chicago sports leader"
     },
     {
       "name": "WEEI 93.7 FM",
-      "streamUrl": "https://www.audacy.com/weei/listen",
+      "streamUrl": "https://prod-34-203-207-232.amperwave.net/audacy-weeifmaac-imc?session-id=661d9bd379933e7c91af57634d545fa6",
       "iconUrl": "",
       "description": "Boston sports radio"
     },
     {
       "name": "KNBR 680 AM",
-      "streamUrl": "https://www.knbr.com/listen-live/",
-      "iconUrl": "https://i.imgur.com/8h7zG3M.png",
+      "streamUrl": "https://17793.live.streamtheworld.com/KNBRAM_SC",
+      "iconUrl": "",
       "description": "San Francisco sports"
     },
     {
@@ -176,14 +176,8 @@
     },
     
     {
-      "name": "WXYT 97.1 FM",
-      "streamUrl": "https://www.audacy.com/971theticket/listen",
-      "iconUrl": "",
-      "description": "Detroit sports"
-    },
-    {
       "name": "WIP 94.1 FM",
-      "streamUrl": "https://www.audacy.com/wip/listen",
+      "streamUrl": "https://prod-44-214-91-155.amperwave.net/audacy-wipfmaac-hlsc.m3u8/?z=a8b6ee06c354457d8386d9f8a79126cd&p=1",
       "iconUrl": "",
       "description": "Philadelphia sports talk"
     },
@@ -195,19 +189,19 @@
     },
     {
       "name": "ESPN LA 710 AM",
-      "streamUrl": "https://www.espn.com/espnradio/losangeles/",
+      "streamUrl": "https://prod-3-89-110-162.amperwave.net/goodkarma-kspnamaac-hlsc.m3u8/?source=espnradio&z=1b310faab48e48518f47d3e72cbd33a0&p=1",
       "iconUrl": "",
       "description": "Los Angeles sports"
     },
     {
       "name": "92.9 FM ESPN Memphis",
-      "streamUrl": "https://www.espn929.com/listen-live/",
+      "streamUrl": "https://prod-18-206-182-166.amperwave.net/audacy-wmfsfmaac-imc?session-id=6f3ab08c319d66cb82c551e98a22b574",
       "iconUrl": "",
       "description": "Memphis sports"
     },
     {
       "name": "WGR 550 AM",
-      "streamUrl": "https://www.audacy.com/wgr550/listen",
+      "streamUrl": "https://prod-18-232-145-154.amperwave.net/audacy-wgramaac-imc?session-id=90f2f2807f90635e6a98ff4ba971ef6e",
       "iconUrl": "",
       "description": "Buffalo sports"
     },
